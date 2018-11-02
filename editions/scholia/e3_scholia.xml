@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>YOUR NAME HERE</author>
+                <author>Luke Giuntoli</author>
+                <author>Thomas Posillico</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -15,18 +16,62 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="10">
-            <text n="msA">
+        <group n="9">
+            <text n="e3">
                 <body>
-                    <div n="PAGE_1" type="scholion">
+                    <div n="116_1" type="scholion">
                         <div n="lemma">
-                            <p></p>
+                            <p><num value="1">α</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.SCHOLION_ID</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.334</p>
                         </div>
                         <div n="comment">
-                            <p></p>
+                            <p>τεχνικῶς ενδείκνυται ὅτι καὶ τὰ νῦν ἀυτῷ διδόμενα δῶρα, μέρος ἐσὶν ὧν ἀν <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνων</persName> ἐσφετερίζε το παρ‘ ἀυτοῦ λαμβάνων ἀδίκως ⁑</p>
+                        </div>
+                    </div>
+                    <div n="116_2" type="scholion">
+                        <div n="lemma">
+                            <p><num value="2">β</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.336</p>
+                        </div>
+                        <div n="comment">
+                            <p>ηὔξησε τὴν ὕβριν ἄλοχον αὐτὴν εἰπὼν καὶ θυμαρέα- ἐπιφθόνως δέ <choice><abbr>φη</abbr><expand>φησι</expand></choice> τοῖς μὲν ἄλλοις ἐφύλαξε τοὺ γέρα ἐμοὶ δὲ οὔ- εὐπροεπῶς δὲ οὐκ εἶπεν ὑμίν- ἄτοπον δὲ εἰ πολλὰ μὲν ἔχων- μικρὰ δὲ παρέχων- οὐδὲ ἐπ ίσησ τῶν ἄλλων ἐᾷ αὐτῷ τὰ κοινῆ δοθέντα- γράφεται δὲ καὶ εἴλετ' ἔχειν ἀντὶ τοῦ ἠθέλησεν- ὅπερ ὁ Ἡρωδιανὸς ἀποδέχεται ὡς ἄμεινον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="116_3" type="scholion">
+                        <div n="lemma">
+                            <p><num value="3">Γ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.336</p>
+                        </div>
+                        <div n="comment">
+                            <p>οὐ συνιαύων διὰ τὸ βίαιον- φησι γοῦν τὸ δμωῇσι δὲ γυναιξὶ παρευνάζεσθαι <w>ἀνάγκη<del>ι</del></w> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="116_4" type="scholion">
+                        <div n="lemma">
+                            <p><num value="4">Δ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.339</p>
+                        </div>
+                        <div n="comment">
+                            <p> πρακτικὸς ὁ λόγοσ- δεικνσ τὸν <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνον</persName>- ἢ ἀσύμετον ἢ ἄδικον- εἰ μὲν γὰρ μικρὸν ἡγεῖται τὸ ἀδικηθῆναι περὶ γυναῖκα, πολεμεῖν ὀυκ ἔδει περὶ <persName n="urn:cite2:hmt:pers.v1:pers94">Ἑλένης</persName>- ἀσύμενετος ὀῦν ἐτι περὶ μικπρᾶς αἰτίας πολεμῶν- ἐι δὲ χαλεπὸν καὶ μέγα. πῶς ἅπερ παθῶν ὑπὸ ἀλλοφύλων ἀγανακτεῖ- ταῦτα ἐις τοὺς φίλους ποιῶν. ὀυκ ἀδικεῖν νομίζει- καὶ πρῶτον μὲν ὑπέφηνε τὸ χάριστον- εἶτα τὴν ὕβριν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="116_5" type="scholion">
+                        <div n="lemma">
+                            <p><num value="5">Ε</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.340</p>
+                        </div>
+                        <div n="comment">
+                            <p> ⁑</p>
                         </div>
                     </div>
                 </body>
