@@ -5,8 +5,9 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Sophia Sarro</editor>
+        <editor>Luke Giuntoli</editor>
+        <editor>Thomas Posillico</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -18,8 +19,31 @@
   </teiHeader>
   <text>
     <body>
-      <div n="24">
-        <l n="1">λῦτο δ᾽ ἀγών, λαοὶ δὲ θοὰς ἐπὶ νῆας ἕκαστοι</l>
+      <div n="9">
+        <l n="334">ἄλλα δ' ἀριστήεσσι δίδου γέρα καὶ βασιλεῦσι~</l>
+        <l n="335">τοῖσι μὲν ἔμπεδα κεῖται~ ἐμεῦ δ' ἀπὸ μούνου <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs></l>
+        <l n="336">εἵλετ'~ ἔχει δ' ἄλοχον θυμαρέα~ τῇ παρϊαύων</l>
+        <l n="337">τερπέσθω~ τί δὲ δεῖ πολεμιζέμεναι <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώεσσιν</rs></l>
+        <l n="338"><rs type="ethnic" n="urn:cite2:hmt:place.v1:place114">Ἀργείους</rs>~ τί δὲ λαὸν ἀνήγαγεν ἐνθάδ' ἀγείρας</l>
+        <l n="339"><persName n="urn:cite2:hmt:pers.v1:pers22">Ἀτρείδης</persName>~ ἦ οὐχ <persName n="urn:cite2:hmt:pers.v1:pers94">Ἑλένης</persName> ἕνεκ' ἠϋκόμοιο;</l>
+        <l n="340">ἦ μοῦνοι φιλέουσ' ἀλόχους μερόπων <choice><abbr>ἀνών</abbr><expan>ἀνθρώπων</expan></choice></l>
+        <l n="341"><persName n="urn:cite2:hmt:pers.v1:pers22"><persName n="urn:cite2:hmt:pers.v1:pers119">Ἀτρείδαι</persName></persName>~ ἐπεὶ ὅς τις ἀνὴρ ἀγαθὸς καὶ ἐχέφρων.</l>
+        <l n="342">τὴν αὐτοῦ φιλέει καὶ κήδεται~ ὡς καὶ ἐγὼ τὴν</l>
+        <l n="343">ἐκ θυμοῦ φίλεον δορυκτητήν περ ἐοῦσαν~</l>
+        <l n="344">νῦν δ' ἐπεὶ ἐκ χειρῶν γέρας εἵλετο~ καί μ' ἀπάτησε,</l>
+        <l n="345">μή μευ πειράτω εὖ εἰδότος~ οὐδέ με πείσει~</l>
+        <l n="346">ἀλλ' <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεῦ</persName>~ σὺν σοί τε καὶ ἄλλοισι~ βασιλεῦσι</l>
+        <l n="347">φραζέσθω, νήεσσιν ἀλεξέμεναι δήϊον πῦρ~</l>
+        <l n="348">ἦ μὲν δὴ μάλα πολλὰ πονήσατο νόσφιν ἐμεῖο~</l>
+        <l n="349">καὶ δὴ τεῖχος ἔδειμε. καὶ ἤλασε τάφρον ἐπ' αὐτῷ</l>
+        <l n="350">εὐρεῖαν μεγάλην~ ἐν δὲ σκόλοπας κατέπηξεν~</l>
+        <l n="351">ἀλλ' οὐδ' ὧς δύναται σθένος <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορος</persName> ἱπποδάμοιο</l>
+        <l n="352">ἴσχειν~ ὄφρα δ' ἐγὼ μετ' <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιοῖσι</rs> πολέμιζον,</l>
+        <l n="353">οὐκ ἐθέλεσκε μάχην ἀπὸ τείχεος ὀρνύμεν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName>~</l>
+        <l n="354">ἀλλ' ὅσον ἐς Σκαιάς τε πύλας καὶ φηγὸν ἵκανεν~</l>
+        <l n="355">ἔνθά ποτ' οἶον ἔμιμνε~ μόγις δέ μευ ἔκφυγεν ὁρμήν~</l>
+        <l n="356">νῦν δ' ἐπεὶ οὐκ ἐθέλω πολεμίζειν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορι</persName> δίῳ;</l>
+        <l n="357">αὔριον ἱρὰ <persName n="urn:cite2:hmt:pers.v1:pers8">Διῒ</persName> ῥέξας καὶ πᾶσι θεοῖσι</l>
       </div>
     </body>
   </text>
